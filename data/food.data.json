@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita Pizza",
+    "price": 8,
+    "cookTime": "30-40",
+    "favorite": true,
+    "origins": [
+      "italy"
+    ],
+    "stars": 4.5,
+    "imageUrl": "./assets/imgs/food-01.png",
+    "tags": [
+      "FastFood",
+      "Dinner"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Pepperoni Pizza",
+    "price": 10,
+    "cookTime": "35-45",
+    "favorite": false,
+    "origins": [
+      "usa"
+    ],
+    "stars": 4.7,
+    "imageUrl": "./assets/imgs/food-02.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Lunch"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "BBQ Chicken Pizza",
+    "price": 11,
+    "cookTime": "40-50",
+    "favorite": true,
+    "origins": [
+      "usa"
+    ],
+    "stars": 4.8,
+    "imageUrl": "./assets/imgs/food-03.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Dinner"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hawaiian Pizza",
+    "price": 9,
+    "cookTime": "35-45",
+    "favorite": false,
+    "origins": [
+      "usa"
+    ],
+    "stars": 4.2,
+    "imageUrl": "./assets/imgs/food-04.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Lunch"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Buffalo Chicken Pizza",
+    "price": 12,
+    "cookTime": "45-55",
+    "favorite": true,
+    "origins": [
+      "usa"
+    ],
+    "stars": 4.6,
+    "imageUrl": "./assets/imgs/food-05.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Dinner"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Vegetables Pizza",
+    "price": 9,
+    "cookTime": "40-50",
+    "favorite": false,
+    "origins": [
+      "italy",
+      "germany",
+      "belgium"
+    ],
+    "stars": 4.0,
+    "imageUrl": "./assets/imgs/food-06.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Lunch"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Meat Lovers Pizza",
+    "price": 13,
+    "cookTime": "50-60",
+    "favorite": true,
+    "origins": [
+      "usa"
+    ],
+    "stars": 4.9,
+    "imageUrl": "./assets/imgs/food-07.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Dinner"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Cheese Pizza",
+    "price": 7,
+    "cookTime": "25-35",
+    "favorite": true,
+    "origins": [
+      "italy",
+      "moldova",
+      "japan"
+    ],
+    "stars": 4.3,
+    "imageUrl": "./assets/imgs/food-08.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Lunch"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Supreme Pizza",
+    "price": 14,
+    "cookTime": "50-60",
+    "favorite": false,
+    "origins": [
+      "usa",
+      "germany"
+    ],
+    "stars": 4.7,
+    "imageUrl": "./assets/imgs/food-09.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Dinner"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Four Seasons Pizza",
+    "price": 15,
+    "cookTime": "60-70",
+    "favorite": true,
+    "origins": [
+      "italy",
+      "france"
+    ],
+    "stars": 4.8,
+    "imageUrl": "./assets/imgs/food-10.png",
+    "tags": [
+      "FastFood",
+      "Pizza",
+      "Lunch"
+    ]
+  }
+]

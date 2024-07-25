@@ -5,7 +5,8 @@
     "strict": true,
     "outDir": "./built",
     "experimentalDecorators": true,
-    "emitDecoratorMetada": true,
+    "emitDecoratorMetadata": true,
+    "resolveJsonModule": true,
     "esModuleInterop": true
   },
   "include": [
